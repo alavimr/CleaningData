@@ -285,4 +285,3 @@ Values in the "tidyData" table are averge of each variable for each subject for 
 
 
 
-
