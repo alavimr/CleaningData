@@ -22,7 +22,7 @@ Values in the "tidyData" table are averge of each variable for each subject for 
 <dt>ID</dt>
 <dd>Id assignment for each volunteer; factor type with 30 levels</dd>
 
-<dt>ActivityLabel</dt>                              
+<dt>ActivityLabel</dt>
 <dd>factor of 6 levels; WALKING, WALKING UPSTAIRS, WALKING DOWNSTAIRS, SITTING, STANDING, LAYING</dd>
 
 <dt>tBodyAccmeanX</dt>
