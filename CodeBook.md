@@ -27,10 +27,16 @@ Values in the "tidyData" table are averge of each variable for each subject for 
 
 <dt>tBodyAccmeanX</dt>
 <dd>t-domain body acceleration mean in X axis </dd>
-   
-tBodyAccmeanY \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ t-domain body acceleration mean in Y axis   
-tBodyAccmeanZ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ t-domain body acceleration mean in Z axis  
-tBodyAccstdX \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ t-domain body acceleration std in X axis   
+
+<dt>tBodyAccmeanY</dt>
+<dd>t-domain body acceleration mean in X axis</dd>   
+
+<dt>tBodyAccmeanZ</dt>
+<dd>t-domain body acceleration mean in Z axis</dd>
+
+<dt>tBodyAccstdX</dt>
+<dd>t-domain body acceleration std in X axis</dd>
+
 tBodyAccstdY \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ t-domain body acceleration std in Y axis   
 tBodyAccstdZ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ t-domain body acceleration std in Z axis   
 tGravityAccmeanX \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ t-domain gravity component of acceleration mean in X axis   
