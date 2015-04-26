@@ -17,10 +17,10 @@ The body linear acceleration and angular velocity were derived in time to obtain
 Values in the "tidyData" table are averge of each variable for each subject for each activity
     
 
-**Variable Name** \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ **Variable**   
+**Variable Name**                           **Variable**   
   
-ID \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Id assignment for each volunteer; factor type with 30 levels  
-ActivityLabel \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ name of each activity; factor of 6 levels: WALKING, WALKING UPSTAIRS, WALKING DOWNSTAIRS, SITTING, STANDING, LAYING  
+ID                                          Id assignment for each volunteer; factor type with 30 levels  
+ActivityLabel                               name of each activity; factor of 6 levels: WALKING, WALKING UPSTAIRS, WALKING DOWNSTAIRS, SITTING, STANDING, LAYING  
 tBodyAccmeanX \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ t-domain body acceleration mean in X axis    
 tBodyAccmeanY \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ t-domain body acceleration mean in Y axis   
 tBodyAccmeanZ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ t-domain body acceleration mean in Z axis  
