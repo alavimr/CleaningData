@@ -19,7 +19,8 @@ Values in the "tidyData" table are averge of each variable for each subject for 
 
 **Variable Name**                           **Variable**   
   
-ID                                          Id assignment for each volunteer; factor type with 30 levels  
+<dt>ID<dt>
+<dd>Id assignment for each volunteer; factor type with 30 levels<dd>  
 ActivityLabel                               name of each activity; factor of 6 levels: WALKING, WALKING UPSTAIRS, WALKING DOWNSTAIRS, SITTING, STANDING, LAYING  
 tBodyAccmeanX \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ t-domain body acceleration mean in X axis    
 tBodyAccmeanY \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ t-domain body acceleration mean in Y axis   
