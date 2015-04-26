@@ -17,11 +17,13 @@ The body linear acceleration and angular velocity were derived in time to obtain
 Values in the "tidyData" table are averge of each variable for each subject for each activity
     
 
-**Variable Name**                           **Variable**   
+**Variable Name and description**   
   
 <dt>ID</dt>
 <dd>Id assignment for each volunteer; factor type with 30 levels</dd>  
-ActivityLabel                               name of each activity; factor of 6 levels: WALKING, WALKING UPSTAIRS, WALKING DOWNSTAIRS, SITTING, STANDING, LAYING  
+<dt>ActivityLabel</dt>                               
+<dd>name of each activity; factor of 6 levels: WALKING, WALKING UPSTAIRS, WALKING DOWNSTAIRS, SITTING, STANDING, LAYING</dd>
+
 tBodyAccmeanX \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ t-domain body acceleration mean in X axis    
 tBodyAccmeanY \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ t-domain body acceleration mean in Y axis   
 tBodyAccmeanZ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ t-domain body acceleration mean in Z axis  
