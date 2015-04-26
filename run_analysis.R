@@ -1,4 +1,4 @@
-# run_analysis.R
+# run_analysis.R  at https://github.com/alavimr/CleaningData
 
 # BLOCK 1
 #----------------------------------------------------------------------------------
@@ -119,3 +119,4 @@ tidyData <- dcast(meltData, ID + ActivityLabel~variable, mean)
 # WRITE TIDYDATA TABLE TO DATA FOLDER ON DESKTOP
 
 write.table(tidyData, file= "./data/tidyTable.txt", row.name=FALSE)
+
